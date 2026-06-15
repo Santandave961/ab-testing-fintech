@@ -1,8 +1,6 @@
-# 🧪 A/B Testing Framework — Naija Fintech Onboarding
+#  A/B Testing Framework — Naija Fintech Onboarding
 
-A complete, end-to-end A/B testing project built in Python, framed around a realistic Nigerian fintech product scenario. Covers the full experiment lifecycle — from data simulation and statistical testing to effect size, power analysis, and a business recommendation.
-
-![Dashboard](ab_test_dashboard.png)
+A complete, end-to-end A/B testing project built in Python, framed around a realistic Nigerian fintech product scenario. Covers the full experiment lifecycle — from data simulation and statistical testing to effect size, power analysis
 
 ---
 
@@ -19,7 +17,7 @@ A Nigerian fintech app (modelled after Kuda / PiggyVest) wants to increase onboa
 
 ---
 
-## 🔬 Methods
+##  Methods
 
 | Step | Technique |
 |---|---|
@@ -33,7 +31,7 @@ A Nigerian fintech app (modelled after Kuda / PiggyVest) wants to increase onboa
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Metric | Value |
 |---|---|
@@ -53,7 +51,7 @@ A Nigerian fintech app (modelled after Kuda / PiggyVest) wants to increase onboa
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ab-testing-project/
@@ -66,7 +64,7 @@ ab-testing-project/
 
 ---
 
-## ⚙️ Setup & Usage
+##  Setup & Usage
 
 **1. Clone the repo**
 ```bash
@@ -88,7 +86,7 @@ The script will print all statistical output to the terminal and save `ab_test_d
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 pandas
@@ -102,7 +100,7 @@ seaborn
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 
 - **Null & alternative hypothesis** formulation for a one-sided test
 - **Pooled proportion Z-test** implemented without external stats libraries
@@ -114,7 +112,7 @@ seaborn
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 
 The auto-generated dashboard contains 6 panels:
 
@@ -127,18 +125,18 @@ The auto-generated dashboard contains 6 panels:
 
 ---
 
-## 💡 Business Context
+##  Business Context
 
 This project is designed to reflect the kind of data-driven decision-making used at Nigerian fintech companies like **Kuda**, **Moniepoint**, **PiggyVest**, **Flutterwave**, and **Carbon** — where product, growth, and data science teams run continuous experiments to improve conversion funnels, retention, and user activation.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Wisdom** — Data Science & ML Engineer  
 📌 NYSC Corper | Abia State, Nigeria  
 🐙 GitHub: [@Santandave961](https://github.com/Santandave961)  
-🐦 X: [@Santandave961](https://x.com/Santandave961)
+🐦 X: [@Santandave961](https://x.com/WOkparaji74619)
 
 ---
 
